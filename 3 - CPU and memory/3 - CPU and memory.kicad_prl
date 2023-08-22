@@ -64,7 +64,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_7ffffffe",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -72,19 +72,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "3 - CPU and memory.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 43,
-          "pos_y": 50,
-          "size_x": 1554,
-          "size_y": 1263
-        }
-      }
-    ]
+    "files": []
   }
 }
