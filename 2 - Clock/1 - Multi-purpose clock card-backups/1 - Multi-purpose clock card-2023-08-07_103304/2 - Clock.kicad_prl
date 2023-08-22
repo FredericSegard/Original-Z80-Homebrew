@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -64,39 +63,14 @@
       35,
       36
     ],
-    "visible_layers": "ffc3eff_ffffffff",
+    "visible_layers": "fffffff_7fffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "1 - Backplkane.kicad_prl",
+    "filename": "2 - Clock.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "1 - Backplkane.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 43,
-          "pos_y": 50,
-          "size_x": 1554,
-          "size_y": 1263
-        }
-      },
-      {
-        "name": "1 - Backplkane.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 5,
-          "pos_y": 21,
-          "size_x": 1712,
-          "size_y": 1346
-        }
-      }
-    ]
+    "files": []
   }
 }
