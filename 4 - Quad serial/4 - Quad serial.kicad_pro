@@ -56,7 +56,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|177000000|56800200|41607161-1528-4d03-a9b7-2e39af1c9338|82ac6d80-5355-495b-866d-323baa318bed",
+        "silk_edge_clearance|177000000|69020200|41607161-1528-4d03-a9b7-2e39af1c9338|032729cb-ce1d-48e2-9171-9cf4717f985e",
+        "starved_thermal|100965000|129530000|f14470a4-d6dc-475e-a764-043934640005|5113f6d4-2e42-4218-b6b8-baee8149a71a|B.Cu",
+        "starved_thermal|116205000|132070000|f14470a4-d6dc-475e-a764-043934640005|c6fa24cc-38ce-4181-9636-8d8acc45d9d4|F.Cu",
+        "starved_thermal|120650000|132070000|f14470a4-d6dc-475e-a764-043934640005|ed007b78-54e1-457b-af07-2500cfdcb94d|B.Cu",
+        "starved_thermal|87670000|98425000|f14470a4-d6dc-475e-a764-043934640005|4920c598-0424-44a7-9877-21120de728c4|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -515,7 +522,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "Docs and images/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
